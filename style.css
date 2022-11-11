@@ -1,21 +1,19 @@
 .parent1{
     position: relative;
-    border: 2px solid #7B7B7B29;
-    width: 80%;
     height: 800px;
     background-color: #F4F4F4;
     margin: 40px;
     cursor: pointer;
-    left: 6%;
+    
 }
 .task{
     border: 1px solid white;
     background-color: white;
     height: 48px;
-    /* width: 100%; */
+    
     font-size: xx-large;
     font-weight: bolder;
-    /* margin-left: 30px; */
+   
     padding-top: 15px;
     padding-left: 80px;
 }
@@ -27,7 +25,7 @@
    position: absolute;
    top: 80px;
    font-size: xx-large;
-   right: 220px;
+   right: 255px;
    
 
 }
@@ -93,22 +91,14 @@
     color: grey;
     
 }
-.lessthan{
-    margin-left: 15px;
-    color: black;
-}
-.bigarrow{
-    margin-left: 5px;
-    color: black;
 
-}
-.HOME{
-    /* position: absolute; */
+/* .HOME{
+    position: absolute;
     bottom: 0;
     left: 50%;
    margin-left: 50%;
    color: black;
-}
+} */
 .Shopping
 {
     color: #929191;
