@@ -127,12 +127,12 @@
     background-color: white;
     position: absolute;
     border: 3px solid #EDEDED;
-    height: 160px;
-    width: 320px;
+    height: 180px;
+    width: 340px;
     margin-top: -45%;
     box-shadow: 1px 3px 3px grey;
     border-radius: 10px;
-    left: 450px;
+    left: 410px;
 }
 .new2:hover
 {
