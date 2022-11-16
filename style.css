@@ -54,8 +54,8 @@
 .paris{
     border: 1px solid #67676729;
     background-color: white;
-    width: 210px;
-    height: 240px;
+    width: 270px;
+    height: 250px;
     /* position: absolute; */
     padding-top: 30px;
     margin-top: 50px;
@@ -64,9 +64,13 @@
     padding-left: 15px;
     margin-left: 5px;
     box-shadow: 2px 3px 3px 3px grey;
+
 }
 .paris:hover
 {
+    box-shadow: 2px 3px 3px 3px grey;
+    
+    margin-top: 45px;
     border:  #424242 ;
 }
 
@@ -127,30 +131,34 @@
     background-color: white;
     position: absolute;
     border: 3px solid #EDEDED;
-    height: 180px;
-    width: 340px;
-    margin-top: -45%;
+    height: 220px;
+    width: 380px;
+    margin-top: -50%;
     box-shadow: 1px 3px 3px grey;
-    border-radius: 10px;
+    border-radius: 6px;
     left: 410px;
+    padding: 10px;
 }
 .new2:hover
 {
     border: grey;
     
+    
+    
 }
 
 .cross
 {
-    margin-left: 173px;
+    margin-left: 250px;
     margin-top: 7px;
     color: black;
+    font-size: 20px;
 }
 
 .t
 {
     /* position: absolute; */
-    width: 290px;
+    width: 370px;
     color: #f4f7f8;
     border: 2px solid #C2C2C2;
     /* margin-left: 5px; */
@@ -162,9 +170,11 @@
     border: 2px solid #00A5EC;
     color: #f4f7f8;
     background-color: #00A5EC;
-    margin-top: 45px;
-    margin-left: 206px;
+    margin-top: 50px;
+    margin-left: 220px;
     border-radius: 10px;
+    width: 90px;
+    height: 30px;
 }
 
 
@@ -238,7 +248,7 @@
     position: absolute;
     /* border: 1px solid #67676729; */
     background-color: white;
-    width: 300px;
+    width: 380px;
     height: 190px;
     padding-top: 10px;
     cursor: pointer;
@@ -258,7 +268,7 @@
     color: #f4f7f8;
     background-color: #00A5EC;
     margin-top: 50px;
-    margin-left: 200px;
+    margin-left: 270px;
     border-radius: 10px;
 }
 
