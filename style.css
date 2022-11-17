@@ -1,8 +1,9 @@
 .parent1{
     position: relative;
+    width: 100%;
     height: 800px;
     background-color: #F4F4F4;
-    margin: 40px;
+    /* margin: 40px; */
     cursor: pointer;
     
 }
@@ -25,7 +26,7 @@
    position: absolute;
    top: 80px;
    font-size: xx-large;
-   right: 255px;
+   right: 270px;
    
 
 }
